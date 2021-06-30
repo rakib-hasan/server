@@ -25,10 +25,7 @@
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 import numpy as np
-import sys
 import json
-
-sys.path.append('../../')
 import triton_python_backend_utils as pb_utils
 
 
